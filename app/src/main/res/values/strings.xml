@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit_Tracker</string>
+    <string name="add">Click the button to add a data and it will also display all the data contained in it .</string>
+    <string name="delete">This will clear the data from here not from the database.</string>
+</resources>
